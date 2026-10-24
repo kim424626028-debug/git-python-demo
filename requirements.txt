@@ -1,0 +1,8 @@
+# 项目依赖清单
+# 安装：pip install -r requirements.txt
+# 更新：pip freeze > requirements.txt  （或手动改版本号）
+#
+# 建议锁版本，团队里每个人装到的才是同一套东西
+
+requests>=2.32,<3.0
+python-dotenv>=1.0,<2.0
